@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jvlam318@gmail.com
+	name = joseph lam
